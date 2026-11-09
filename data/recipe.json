@@ -1,0 +1,607 @@
+[
+    {
+        "CardBaseId": 1,
+        "CardBaseIdStr": "1-1-a",
+        "Name": {
+            "English": "A Warm Gaze \nSeeking Others",
+            "Japanese": "仲間を映す瞳",
+            "Korean": "",
+            "TraditionalChinese": "找尋夥伴的溫暖目光",
+            "SimplifiedChinese": "找寻伙伴的温暖目光"
+        }
+    },
+    {
+        "CardBaseId": 2,
+        "CardBaseIdStr": "1-1-i",
+        "Name": {
+            "English": "Austere Advisor",
+            "Japanese": "冷厳なる指導",
+            "Korean": "",
+            "TraditionalChinese": "冷酷的督導",
+            "SimplifiedChinese": "冷酷的督导"
+        }
+    },
+    {
+        "CardBaseId": 3,
+        "CardBaseIdStr": "1-1-m",
+        "Name": {
+            "English": "4AM",
+            "Japanese": "夜、午前4時",
+            "Korean": "",
+            "TraditionalChinese": "凌晨四點",
+            "SimplifiedChinese": "凌晨四点"
+        }
+    },
+    {
+        "CardBaseId": 4,
+        "CardBaseIdStr": "1-1-n",
+        "Name": {
+            "English": "At The End",
+            "Japanese": "終の果にて",
+            "Korean": "",
+            "TraditionalChinese": "終焉盡頭",
+            "SimplifiedChinese": "终焉尽头"
+        }
+    },
+    {
+        "CardBaseId": 5,
+        "CardBaseIdStr": "1-2-m",
+        "Name": {
+            "English": "Orchestrator of Anarchy",
+            "Japanese": "無秩序の指揮者",
+            "Korean": "",
+            "TraditionalChinese": "無序的指揮者",
+            "SimplifiedChinese": "无序的指挥者"
+        }
+    },
+    {
+        "CardBaseId": 6,
+        "CardBaseIdStr": "1-2-n",
+        "Name": {
+            "English": "An Aberrant Freedom",
+            "Japanese": "逸脱していく自由",
+            "Korean": "",
+            "TraditionalChinese": "脫離常軌的自由",
+            "SimplifiedChinese": "脱离常轨的自由"
+        }
+    },
+    {
+        "CardBaseId": 7,
+        "CardBaseIdStr": "2-1-a",
+        "Name": {
+            "English": "Class Idol",
+            "Japanese": "クラスの華",
+            "Korean": "",
+            "TraditionalChinese": "班花",
+            "SimplifiedChinese": "班花"
+        }
+    },
+    {
+        "CardBaseId": 9,
+        "CardBaseIdStr": "2-1-m",
+        "Name": {
+            "English": "Last Days of Summer",
+            "Japanese": "夏の終わり際",
+            "Korean": "",
+            "TraditionalChinese": "夏日的最後時光",
+            "SimplifiedChinese": "夏日的最后时光"
+        }
+    },
+    {
+        "CardBaseId": 10,
+        "CardBaseIdStr": "2-1-n",
+        "Name": {
+            "English": "New Friend",
+            "Japanese": "あたらしい友達",
+            "Korean": "",
+            "TraditionalChinese": "新朋友",
+            "SimplifiedChinese": "新朋友"
+        }
+    },
+    {
+        "CardBaseId": 11,
+        "CardBaseIdStr": "2-1-s",
+        "Name": {
+            "English": "Sea of Disorder",
+            "Japanese": "混濁の海原",
+            "Korean": "",
+            "TraditionalChinese": "混濁的大海",
+            "SimplifiedChinese": "混浊的大海"
+        }
+    },
+    {
+        "CardBaseId": 12,
+        "CardBaseIdStr": "2-2-a",
+        "Name": {
+            "English": "The Doubt Inside",
+            "Japanese": "抱えた欺瞞",
+            "Korean": "",
+            "TraditionalChinese": "心中的疑慮",
+            "SimplifiedChinese": "心中的疑虑"
+        }
+    },
+    {
+        "CardBaseId": 13,
+        "CardBaseIdStr": "2-2-i",
+        "Name": {
+            "English": "Birth of a New Day",
+            "Japanese": "まっさらな夜明け",
+            "Korean": "",
+            "TraditionalChinese": "嶄新黎明",
+            "SimplifiedChinese": "崭新黎明"
+        }
+    },
+    {
+        "CardBaseId": 14,
+        "CardBaseIdStr": "2-2-s",
+        "Name": {
+            "English": "Aeon Record",
+            "Japanese": "アイオーン・レコーダー",
+            "Korean": "",
+            "TraditionalChinese": "永恆記錄儀",
+            "SimplifiedChinese": "永恒记录仪"
+        }
+    },
+    {
+        "CardBaseId": 15,
+        "CardBaseIdStr": "2b-1-a",
+        "Name": {
+            "English": "Across the City",
+            "Japanese": "街に繰り出して",
+            "Korean": "",
+            "TraditionalChinese": "穿梭於城市中",
+            "SimplifiedChinese": "穿行于城市中"
+        }
+    },
+    {
+        "CardBaseId": 16,
+        "CardBaseIdStr": "2b-1-i",
+        "Name": {
+            "English": "Unusual Attire",
+            "Japanese": "非日常のお召し物",
+            "Korean": "",
+            "TraditionalChinese": "非日常服裝",
+            "SimplifiedChinese": "非日常服装"
+        }
+    },
+    {
+        "CardBaseId": 17,
+        "CardBaseIdStr": "2b-1-m",
+        "Name": {
+            "English": "A Crack in the Everyday",
+            "Japanese": "日常に走る亀裂",
+            "Korean": "",
+            "TraditionalChinese": "日常的一絲裂痕",
+            "SimplifiedChinese": "日常的一丝裂痕"
+        }
+    },
+    {
+        "CardBaseId": 18,
+        "CardBaseIdStr": "2b-1-n",
+        "Name": {
+            "English": "Witful Friend",
+            "Japanese": "聡明なる朋",
+            "Korean": "",
+            "TraditionalChinese": "機靈的朋友",
+            "SimplifiedChinese": "机灵的朋友"
+        }
+    },
+    {
+        "CardBaseId": 19,
+        "CardBaseIdStr": "2b-1-s",
+        "Name": {
+            "English": "Nothing Grows Here",
+            "Japanese": "芽の出ぬ日陰",
+            "Korean": "",
+            "TraditionalChinese": "不毛之處",
+            "SimplifiedChinese": "不毛之处"
+        }
+    },
+    {
+        "CardBaseId": 33,
+        "CardBaseIdStr": "3-1-i",
+        "Name": {
+            "English": "Required Force",
+            "Japanese": "求められるなら",
+            "Korean": "",
+            "TraditionalChinese": "必要的武力",
+            "SimplifiedChinese": "必要的武力"
+        }
+    },
+    {
+        "CardBaseId": 34,
+        "CardBaseIdStr": "3-1-m",
+        "Name": {
+            "English": "Brief Respite",
+            "Japanese": "ひとときの安らぎ",
+            "Korean": "",
+            "TraditionalChinese": "片刻的安寧",
+            "SimplifiedChinese": "片刻的安宁"
+        }
+    },
+    {
+        "CardBaseId": 35,
+        "CardBaseIdStr": "3-1-n",
+        "Name": {
+            "English": "Path to Reality",
+            "Japanese": "現実へと続く道",
+            "Korean": "",
+            "TraditionalChinese": "通往現實之路",
+            "SimplifiedChinese": "通往现实之路"
+        }
+    },
+    {
+        "CardBaseId": 36,
+        "CardBaseIdStr": "3-1-s",
+        "Name": {
+            "English": "Underneath This Sky",
+            "Japanese": "この宇の下で",
+            "Korean": "",
+            "TraditionalChinese": "天穹之下",
+            "SimplifiedChinese": "天穹之下"
+        }
+    },
+    {
+        "CardBaseId": 37,
+        "CardBaseIdStr": "3-2-a",
+        "Name": {
+            "English": "Natural Leadership",
+            "Japanese": "根っからのリーダー",
+            "Korean": "",
+            "TraditionalChinese": "天生的領袖",
+            "SimplifiedChinese": "天生的领袖"
+        }
+    },
+    {
+        "CardBaseId": 38,
+        "CardBaseIdStr": "3-2-i",
+        "Name": {
+            "English": "Lost Garden of Bonds",
+            "Japanese": "絆を失った庭園で",
+            "Korean": "",
+            "TraditionalChinese": "羈絆的失落花園",
+            "SimplifiedChinese": "羁绊的失落花园"
+        }
+    },
+    {
+        "CardBaseId": 39,
+        "CardBaseIdStr": "3-2-m",
+        "Name": {
+            "English": "A Forgiving Embrace",
+            "Japanese": "ぬくもりは慈しく",
+            "Korean": "",
+            "TraditionalChinese": "重修舊好的擁抱",
+            "SimplifiedChinese": "重归于好的拥抱"
+        }
+    },
+    {
+        "CardBaseId": 40,
+        "CardBaseIdStr": "3-2-n",
+        "Name": {
+            "English": "Bound by \nHeaven and Earth",
+            "Japanese": "天と地の境界線",
+            "Korean": "",
+            "TraditionalChinese": "天之枷，地之鎖\n",
+            "SimplifiedChinese": "天之枷，地之锁"
+        }
+    },
+    {
+        "CardBaseId": 41,
+        "CardBaseIdStr": "3-2-s",
+        "Name": {
+            "English": "First Drop of Abyss",
+            "Japanese": "奈落を知った日",
+            "Korean": "",
+            "TraditionalChinese": "窺見深淵",
+            "SimplifiedChinese": "窥见深渊"
+        }
+    },
+    {
+        "CardBaseId": 42,
+        "CardBaseIdStr": "3-3-a",
+        "Name": {
+            "English": "Into Monochrome",
+            "Japanese": "鈍色に落つ",
+            "Korean": "",
+            "TraditionalChinese": "褪作黑白",
+            "SimplifiedChinese": "褪作黑白"
+        }
+    },
+    {
+        "CardBaseId": 53,
+        "CardBaseIdStr": "mvp-1",
+        "Name": {
+            "English": "Nia: Path to Reality",
+            "Japanese": "ニア: 現実へと続く道",
+            "Korean": "",
+            "TraditionalChinese": "妮雅：通往現實之路",
+            "SimplifiedChinese": "妮雅：通往现实之路"
+        }
+    },
+    {
+        "CardBaseId": 54,
+        "CardBaseIdStr": "mvp-2",
+        "Name": {
+            "English": "Mei: 4AM",
+            "Japanese": "メイ: 夜、午前4時。",
+            "Korean": "",
+            "TraditionalChinese": "梅：凌晨四點",
+            "SimplifiedChinese": "梅：凌晨四点"
+        }
+    },
+    {
+        "CardBaseId": 55,
+        "CardBaseIdStr": "mvp-3",
+        "Name": {
+            "English": "Ayame: A Warm Gaze\nSeeking Others",
+            "Japanese": "あやめ: 仲間を映す瞳",
+            "Korean": "",
+            "TraditionalChinese": "菖蒲：找尋夥伴的溫暖目光",
+            "SimplifiedChinese": "菖蒲：找寻伙伴的温暖目光"
+        }
+    },
+    {
+        "CardBaseId": 56,
+        "CardBaseIdStr": "mvp-4",
+        "Name": {
+            "English": "Iris: Lost Garden of Bonds",
+            "Japanese": "アイリス: 絆を失った庭園で",
+            "Korean": "",
+            "TraditionalChinese": "埃利斯：羈絆的失落花園",
+            "SimplifiedChinese": "埃利斯：羁绊的失落花园"
+        }
+    },
+    {
+        "CardBaseId": 57,
+        "CardBaseIdStr": "mvp-5",
+        "Name": {
+            "English": "Story: First Drop of Abyss",
+            "Japanese": "ストーリー: 奈落を知った日",
+            "Korean": "",
+            "TraditionalChinese": "斯多麗：窺見深淵",
+            "SimplifiedChinese": "斯多丽：窥见深渊"
+        }
+    },
+    {
+        "CardBaseId": 22,
+        "CardBaseIdStr": "zzz-tgs-mastered-1",
+        "Name": {
+            "English": "Nia: Path to Reality",
+            "Japanese": "ニア: 現実へと続く道",
+            "Korean": "",
+            "TraditionalChinese": "妮雅：通往現實之路",
+            "SimplifiedChinese": "妮雅：通往现实之路"
+        }
+    },
+    {
+        "CardBaseId": 23,
+        "CardBaseIdStr": "zzz-tgs-mastered-2",
+        "Name": {
+            "English": "Mei: 4AM",
+            "Japanese": "メイ: 夜、午前4時。",
+            "Korean": "",
+            "TraditionalChinese": "梅：凌晨四點",
+            "SimplifiedChinese": "梅：凌晨四点"
+        }
+    },
+    {
+        "CardBaseId": 24,
+        "CardBaseIdStr": "zzz-tgs-mastered-3",
+        "Name": {
+            "English": "Ayame: A Warm Gaze\nSeeking Others",
+            "Japanese": "あやめ: 仲間を映す瞳",
+            "Korean": "",
+            "TraditionalChinese": "菖蒲：找尋夥伴的溫暖目光",
+            "SimplifiedChinese": "菖蒲：找寻伙伴的温暖目光"
+        }
+    },
+    {
+        "CardBaseId": 25,
+        "CardBaseIdStr": "zzz-tgs-mastered-4",
+        "Name": {
+            "English": "Iris: Lost Garden of Bonds",
+            "Japanese": "アイリス: 絆を失った庭園で",
+            "Korean": "",
+            "TraditionalChinese": "埃利斯：羈絆的失落花園",
+            "SimplifiedChinese": "埃利斯：羁绊的失落花园"
+        }
+    },
+    {
+        "CardBaseId": 26,
+        "CardBaseIdStr": "zzz-tgs-mastered-5",
+        "Name": {
+            "English": "Story: First Drop of Abyss",
+            "Japanese": "ストーリー: 奈落を知った日",
+            "Korean": "",
+            "TraditionalChinese": "斯多麗：窺見深淵",
+            "SimplifiedChinese": "斯多丽：深渊的第一滴"
+        }
+    },
+    {
+        "CardBaseId": 58,
+        "CardBaseIdStr": "4-1-a",
+        "Name": {
+            "English": "One's Disdain",
+            "Japanese": "ある者の卑下",
+            "Korean": "",
+            "TraditionalChinese": "自慚形穢",
+            "SimplifiedChinese": "自惭形秽"
+        }
+    },
+    {
+        "CardBaseId": 59,
+        "CardBaseIdStr": "4-1-m",
+        "Name": {
+            "English": "Searching Shadows",
+            "Japanese": "紛れる影を探して",
+            "Korean": "",
+            "TraditionalChinese": "追尋飄渺的身影",
+            "SimplifiedChinese": "追寻飘渺的身影"
+        }
+    },
+    {
+        "CardBaseId": 60,
+        "CardBaseIdStr": "4-1-s",
+        "Name": {
+            "English": "Always by Your Side",
+            "Japanese": "いつもあなたの側に",
+            "Korean": "",
+            "TraditionalChinese": "永遠陪在你身旁",
+            "SimplifiedChinese": "永远陪在你身旁"
+        }
+    },
+    {
+        "CardBaseId": 61,
+        "CardBaseIdStr": "4-2-a",
+        "Name": {
+            "English": "Unsightly Confession",
+            "Japanese": "独白はあまりにも",
+            "Korean": "",
+            "TraditionalChinese": "醜陋的告白",
+            "SimplifiedChinese": "丑陋的告白"
+        }
+    },
+    {
+        "CardBaseId": 62,
+        "CardBaseIdStr": "4-2-i",
+        "Name": {
+            "English": "The Price of Self-Worth",
+            "Japanese": "わたしの価値とは",
+            "Korean": "",
+            "TraditionalChinese": "自我的價值",
+            "SimplifiedChinese": "自我的价值"
+        }
+    },
+    {
+        "CardBaseId": 63,
+        "CardBaseIdStr": "4-2-m",
+        "Name": {
+            "English": "True Colors",
+            "Japanese": "真なる色",
+            "Korean": "",
+            "TraditionalChinese": "本色",
+            "SimplifiedChinese": "本色"
+        }
+    },
+    {
+        "CardBaseId": 64,
+        "CardBaseIdStr": "4-2-n",
+        "Name": {
+            "English": "New Day, New Conviction",
+            "Japanese": "新たなる日、新たなる決心",
+            "Korean": "",
+            "TraditionalChinese": "新的一天，新的決心",
+            "SimplifiedChinese": "新的一天，新的决心"
+        }
+    },
+    {
+        "CardBaseId": 65,
+        "CardBaseIdStr": "4-2-s",
+        "Name": {
+            "English": "Disorder's Throne",
+            "Japanese": "混沌の玉座",
+            "Korean": "",
+            "TraditionalChinese": "混沌的王座",
+            "SimplifiedChinese": "混沌的王座"
+        }
+    },
+    {
+        "CardBaseId": 66,
+        "CardBaseIdStr": "4-3-a",
+        "Name": {
+            "English": "Anguish and Hate",
+            "Japanese": "苦悶と憎悪",
+            "Korean": "",
+            "TraditionalChinese": "痛楚與憎恨",
+            "SimplifiedChinese": "痛楚与憎恨"
+        }
+    },
+    {
+        "CardBaseId": 67,
+        "CardBaseIdStr": "4-3-i",
+        "Name": {
+            "English": "Indomitable Power",
+            "Japanese": "その力は不屈",
+            "Korean": "",
+            "TraditionalChinese": "不屈之力",
+            "SimplifiedChinese": "不屈之力"
+        }
+    },
+    {
+        "CardBaseId": 68,
+        "CardBaseIdStr": "4-3-m",
+        "Name": {
+            "English": "Command",
+            "Japanese": "命令",
+            "Korean": "",
+            "TraditionalChinese": "命令",
+            "SimplifiedChinese": "命令"
+        }
+    },
+    {
+        "CardBaseId": 69,
+        "CardBaseIdStr": "4-3-r",
+        "Name": {
+            "English": "Defeat",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "CardBaseId": 70,
+        "CardBaseIdStr": "4-3-s",
+        "Name": {
+            "English": "Unparalleled",
+            "Japanese": "独歩",
+            "Korean": "",
+            "TraditionalChinese": "無雙",
+            "SimplifiedChinese": "无双"
+        }
+    },
+    {
+        "CardBaseId": 71,
+        "CardBaseIdStr": "4b-1-n",
+        "Name": {
+            "English": "Graduation",
+            "Japanese": "卒業",
+            "Korean": "",
+            "TraditionalChinese": "畢業",
+            "SimplifiedChinese": "毕业"
+        }
+    },
+    {
+        "CardBaseId": 72,
+        "CardBaseIdStr": "4-3-n",
+        "Name": {
+            "English": "Hero",
+            "Japanese": "英雄",
+            "Korean": "",
+            "TraditionalChinese": "英雄",
+            "SimplifiedChinese": "英雄"
+        }
+    },
+    {
+        "CardBaseId": 73,
+        "CardBaseIdStr": "demo-1-1-m",
+        "Name": {
+            "English": "Mei: 4AM",
+            "Japanese": "メイ: 夜、午前4時。",
+            "Korean": "",
+            "TraditionalChinese": "梅：凌晨四點",
+            "SimplifiedChinese": "梅：凌晨四点"
+        }
+    },
+    {
+        "CardBaseId": 74,
+        "CardBaseIdStr": "demo-1-1-n",
+        "Name": {
+            "English": "Nia: Path to Reality",
+            "Japanese": "ニア: 現実へと続く道",
+            "Korean": "",
+            "TraditionalChinese": "妮雅：通往現實之路",
+            "SimplifiedChinese": "妮雅：通往现实之路"
+        }
+    }
+]

@@ -1,0 +1,1334 @@
+[
+    {
+        "TraitId": 1,
+        "TraitIdStr": "unique-trait",
+        "Name": {
+            "English": "DO NOT USE",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        },
+        "Description": {
+            "English": "DO NOT USE",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "TraitId": 2,
+        "TraitIdStr": "damage-efficacy-activate-t1",
+        "Name": {
+            "English": "Opening Surge",
+            "Japanese": "開幕攻撃",
+            "Korean": "",
+            "TraditionalChinese": "開幕攻擊",
+            "SimplifiedChinese": "开幕攻击"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Deal damage equal to 22% of your current POW",
+            "Japanese": "カードをセットしたフェーズの開始時：\n攻撃力の22%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n造成等同於目前攻擊力22%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n造成等同于当前攻击力22%的伤害"
+        }
+    },
+    {
+        "TraitId": 3,
+        "TraitIdStr": "damage-efficacy-activate-t2",
+        "Name": {
+            "English": "Opening Surge II",
+            "Japanese": "開幕攻撃 II",
+            "Korean": "",
+            "TraditionalChinese": "開幕攻擊 II",
+            "SimplifiedChinese": "开幕攻击 II"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Deal damage equal to 27% of your current POW",
+            "Japanese": "カードをセットしたフェーズの開始時：\n攻撃力の27%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n造成等同於目前攻擊力27%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n造成等同于当前攻击力27%的伤害"
+        }
+    },
+    {
+        "TraitId": 4,
+        "TraitIdStr": "damage-efficacy-activate-t3",
+        "Name": {
+            "English": "Opening Surge III",
+            "Japanese": "開幕攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "開幕攻擊 III",
+            "SimplifiedChinese": "开幕攻击 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Deal damage equal to 33% of your current POW",
+            "Japanese": "カードをセットしたフェーズの開始時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 5,
+        "TraitIdStr": "damage-efficacy-deactivate-t1",
+        "Name": {
+            "English": "Closing Surge",
+            "Japanese": "終幕攻撃",
+            "Korean": "",
+            "TraditionalChinese": "終幕攻擊",
+            "SimplifiedChinese": "终幕攻击"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Deal damage equal to 22% of your current POW",
+            "Japanese": "カードをセットしたフェーズの終了時：\n攻撃力の22%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n造成等同於目前攻擊力22%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n造成等同于当前攻击力22%的伤害"
+        }
+    },
+    {
+        "TraitId": 6,
+        "TraitIdStr": "damage-efficacy-deactivate-t2",
+        "Name": {
+            "English": "Closing Surge II",
+            "Japanese": "終幕攻撃 II",
+            "Korean": "",
+            "TraditionalChinese": "終幕攻擊 II",
+            "SimplifiedChinese": "终幕攻击 II"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Deal damage equal to 27% of your current POW",
+            "Japanese": "カードをセットしたフェーズの終了時：\n攻撃力の27%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n造成等同於目前攻擊力27%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n造成等同于当前攻击力27%的伤害"
+        }
+    },
+    {
+        "TraitId": 7,
+        "TraitIdStr": "damage-efficacy-deactivate-t3",
+        "Name": {
+            "English": "Closing Surge III",
+            "Japanese": "終幕攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "終幕攻擊 III",
+            "SimplifiedChinese": "终幕攻击 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Deal damage equal to 33% of your current POW",
+            "Japanese": "カードをセットしたフェーズの終了時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 8,
+        "TraitIdStr": "damage-efficacy-enter-t1",
+        "Name": {
+            "English": "Onset Surge",
+            "Japanese": "突入攻撃",
+            "Korean": "",
+            "TraditionalChinese": "突入攻擊",
+            "SimplifiedChinese": "突入攻击"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Deal damage equal to 22% of your current POW",
+            "Japanese": "カード範囲のフェーズ開始時：\n攻撃力の22%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n造成等同於目前攻擊力22%的傷害",
+            "SimplifiedChinese": "进入卡牌范围时：\n造成等同于当前攻击力22%的伤害"
+        }
+    },
+    {
+        "TraitId": 9,
+        "TraitIdStr": "damage-efficacy-enter-t2",
+        "Name": {
+            "English": "Onset Surge II",
+            "Japanese": "突入攻撃 II",
+            "Korean": "",
+            "TraditionalChinese": "突入攻擊 II",
+            "SimplifiedChinese": "突入攻击 II"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Deal damage equal to 27% of your current POW",
+            "Japanese": "カード範囲のフェーズ開始時：\n攻撃力の27%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n造成等同於目前攻擊力27%的傷害",
+            "SimplifiedChinese": "进入卡牌范围时：\n造成等同于当前攻击力27%的伤害"
+        }
+    },
+    {
+        "TraitId": 10,
+        "TraitIdStr": "damage-efficacy-enter-t3",
+        "Name": {
+            "English": "Onset Surge III",
+            "Japanese": "突入攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "突入攻擊 III",
+            "SimplifiedChinese": "突入攻击 III"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Deal damage equal to 33% of your current POW",
+            "Japanese": "カード範囲のフェーズ開始時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "进入卡牌范围时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 11,
+        "TraitIdStr": "damage-efficacy-every-activate-t3",
+        "Name": {
+            "English": "Recurring Surge III",
+            "Japanese": "周期攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "週期攻擊 III",
+            "SimplifiedChinese": "周期攻击 III"
+        },
+        "Description": {
+            "English": "When any Phase in this Card's range starts: Deal damage equal to 17.6% of your current POW",
+            "Japanese": "カード範囲内のフェーズ開始毎に：\n攻撃力の17.6%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內的階段開始時：\n造成等同於目前攻擊力17.6%的傷害",
+            "SimplifiedChinese": "卡牌范围内的阶段开始时：\n造成等同于当前攻击力17.6%的伤害"
+        }
+    },
+    {
+        "TraitId": 12,
+        "TraitIdStr": "damage-efficacy-every-deactivate-t3",
+        "Name": {
+            "English": "Echoing Surge III",
+            "Japanese": "反響攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "迴響攻擊 III",
+            "SimplifiedChinese": "回响攻击 III"
+        },
+        "Description": {
+            "English": "When any Phase in this Card's range ends: Deal damage equal to 17.6% of your current POW",
+            "Japanese": "カード範囲内のフェーズ終了毎に：\n攻撃力の17.6%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內的階段結束時：\n造成等同於目前攻擊力17.6%的傷害",
+            "SimplifiedChinese": "卡牌范围内的阶段结束时：\n造成等同于当前攻击力17.6%的伤害"
+        }
+    },
+    {
+        "TraitId": 13,
+        "TraitIdStr": "damage-efficacy-exit-t1",
+        "Name": {
+            "English": "Lingering Surge",
+            "Japanese": "余波攻撃",
+            "Korean": "",
+            "TraditionalChinese": "餘波攻擊",
+            "SimplifiedChinese": "余波攻击"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Deal damage equal to 22% of your current POW",
+            "Japanese": "カード範囲のフェーズ終了時：\n攻撃力の22%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n造成等同於目前攻擊力22%的傷害",
+            "SimplifiedChinese": "离开卡牌范围时：\n造成等同于当前攻击力22%的伤害"
+        }
+    },
+    {
+        "TraitId": 14,
+        "TraitIdStr": "damage-efficacy-exit-t2",
+        "Name": {
+            "English": "Lingering Surge II",
+            "Japanese": "余波攻撃 II",
+            "Korean": "",
+            "TraditionalChinese": "餘波攻擊 II",
+            "SimplifiedChinese": "余波攻击 II"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Deal damage equal to 27% of your current POW",
+            "Japanese": "カード範囲のフェーズ終了時：\n攻撃力の27%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n造成等同於目前攻擊力27%的傷害",
+            "SimplifiedChinese": "离开卡牌范围时：\n造成等同于当前攻击力27%的伤害"
+        }
+    },
+    {
+        "TraitId": 15,
+        "TraitIdStr": "damage-efficacy-exit-t3",
+        "Name": {
+            "English": "Lingering Surge III",
+            "Japanese": "余波攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "餘波攻擊 III",
+            "SimplifiedChinese": "余波攻击 III"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Deal damage equal to 33% of your current POW",
+            "Japanese": "カード範囲のフェーズ終了時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "离开卡牌范围时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 16,
+        "TraitIdStr": "denominator-all-other-active-t3",
+        "Name": {
+            "English": "Inner Distress",
+            "Japanese": "圧迫",
+            "Korean": "",
+            "TraditionalChinese": "內在壓迫",
+            "SimplifiedChinese": "内在压迫"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Opponent POW/DEF Reduction +50%",
+            "Japanese": "カードをセットしたフェーズ中：\n相手の攻撃力と防御力を50%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n對手的攻擊力與防禦力下降50%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n对手的攻击力与防御力下降50%"
+        }
+    },
+    {
+        "TraitId": 17,
+        "TraitIdStr": "denominator-all-other-range-t3",
+        "Name": {
+            "English": "Ranged Inner Distress",
+            "Japanese": "広範的圧迫",
+            "Korean": "",
+            "TraditionalChinese": "範圍內在壓迫",
+            "SimplifiedChinese": "范围内在压迫"
+        },
+        "Description": {
+            "English": "While in this Card's range: Opponent POW/DEF Reduction +27%",
+            "Japanese": "カード範囲内のフェーズ中：\n相手の攻撃力と防御力を27%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n對手的攻擊力與防禦力下降27%",
+            "SimplifiedChinese": "卡牌范围中：\n对手的攻击力与防御力下降27%"
+        }
+    },
+    {
+        "TraitId": 18,
+        "TraitIdStr": "denominator-fortitude-other-active-t3",
+        "Name": {
+            "English": "Inner Vulnerability III",
+            "Japanese": "脆弱看破",
+            "Korean": "",
+            "TraditionalChinese": "內在削弱",
+            "SimplifiedChinese": "内在削弱"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Opponent DEF Reduction +100%",
+            "Japanese": "カードをセットしたフェーズ中：\n相手の防御力を100%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n對手的防禦力下降100%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n对手的防御力下降100%"
+        }
+    },
+    {
+        "TraitId": 19,
+        "TraitIdStr": "denominator-fortitude-other-range-t3",
+        "Name": {
+            "English": "Ranged Inner Vulnerability III",
+            "Japanese": "広範的脆弱看破",
+            "Korean": "",
+            "TraditionalChinese": "範圍內在削弱",
+            "SimplifiedChinese": "范围内在削弱"
+        },
+        "Description": {
+            "English": "While in this Card's range: Opponent DEF Reduction +53%",
+            "Japanese": "カード範囲内のフェーズ中：\n相手の防御力を53%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n對手的防禦力下降53%",
+            "SimplifiedChinese": "卡牌范围中：\n对手的防御力下降53%"
+        }
+    },
+    {
+        "TraitId": 20,
+        "TraitIdStr": "denominator-power-other-active-t3",
+        "Name": {
+            "English": "Inner Digression III",
+            "Japanese": "眩惑",
+            "Korean": "",
+            "TraditionalChinese": "內在眩惑",
+            "SimplifiedChinese": "内在眩惑"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Opponent POW Reduction +100%",
+            "Japanese": "カードをセットしたフェーズ中：\n相手の攻撃力を100%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n對手的攻擊力下降100%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n对手的攻击力下降100%"
+        }
+    },
+    {
+        "TraitId": 21,
+        "TraitIdStr": "denominator-power-other-range-t3",
+        "Name": {
+            "English": "Ranged Inner Digression III",
+            "Japanese": "広範的眩惑",
+            "Korean": "",
+            "TraditionalChinese": "範圍內在眩惑",
+            "SimplifiedChinese": "范围内在眩惑"
+        },
+        "Description": {
+            "English": "While in this Card's range: Opponent POW Reduction +53%",
+            "Japanese": "カード範囲内のフェーズ中：\n相手の攻撃力を53%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n對手的攻擊力下降53%",
+            "SimplifiedChinese": "卡牌范围中：\n对手的攻击力下降53%"
+        }
+    },
+    {
+        "TraitId": 22,
+        "TraitIdStr": "heal-amount-activate-t1",
+        "Name": {
+            "English": "Opening Recovery",
+            "Japanese": "開幕回復",
+            "Korean": "",
+            "TraditionalChinese": "開幕回復",
+            "SimplifiedChinese": "开幕回复"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Heal for 13% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの13%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n回復最大 HP 的13%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的13%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 23,
+        "TraitIdStr": "heal-amount-activate-t2",
+        "Name": {
+            "English": "Opening Recovery II",
+            "Japanese": "開幕回復 II",
+            "Korean": "",
+            "TraditionalChinese": "開幕回復 II",
+            "SimplifiedChinese": "开幕回复 II"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Heal for 16% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの16%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n回復最大 HP 的16%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的16%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 24,
+        "TraitIdStr": "heal-amount-activate-t3",
+        "Name": {
+            "English": "Opening Recovery III",
+            "Japanese": "開幕回復 III",
+            "Korean": "",
+            "TraditionalChinese": "開幕回復 III",
+            "SimplifiedChinese": "开幕回复 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Heal for 20% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの20%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n回復最大 HP 的20%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的20%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 25,
+        "TraitIdStr": "heal-amount-deactivate-t1",
+        "Name": {
+            "English": "Closing Recovery",
+            "Japanese": "終幕回復",
+            "Korean": "",
+            "TraditionalChinese": "終幕回復",
+            "SimplifiedChinese": "终幕回复"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Heal for 13% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの終了時：\n最大HPの13%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n回復最大 HP 的13%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n回复最大HP的13%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 26,
+        "TraitIdStr": "heal-amount-deactivate-t2",
+        "Name": {
+            "English": "Closing Recovery II",
+            "Japanese": "終幕回復 II",
+            "Korean": "",
+            "TraditionalChinese": "終幕回復 II",
+            "SimplifiedChinese": "终幕回复 II"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Heal for 16% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの終了時：\n最大HPの16%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n回復最大 HP 的16%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n回复最大HP的16%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 27,
+        "TraitIdStr": "heal-amount-deactivate-t3",
+        "Name": {
+            "English": "Closing Recovery III",
+            "Japanese": "終幕回復 III",
+            "Korean": "",
+            "TraditionalChinese": "終幕回復 III",
+            "SimplifiedChinese": "终幕回复 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: Heal for 20% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの終了時：\n最大HPの20%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n回復最大 HP 的20%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n回复最大HP的20%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 28,
+        "TraitIdStr": "heal-amount-enter-t1",
+        "Name": {
+            "English": "Onset Recovery",
+            "Japanese": "突入回復",
+            "Korean": "",
+            "TraditionalChinese": "突入回復",
+            "SimplifiedChinese": "突入回复"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Heal for 13% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ開始時：\n最大HPの13%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n回復最大 HP 的13%（HP 破損時無效）",
+            "SimplifiedChinese": "进入卡牌范围时：\n回复最大HP的13%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 29,
+        "TraitIdStr": "heal-amount-enter-t2",
+        "Name": {
+            "English": "Onset Recovery II",
+            "Japanese": "突入回復 II",
+            "Korean": "",
+            "TraditionalChinese": "突入回復 II",
+            "SimplifiedChinese": "突入回复 II"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Heal for 16% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ開始時：\n最大HPの16%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n回復最大 HP 的16%（HP 破損時無效）",
+            "SimplifiedChinese": "进入卡牌范围时：\n回复最大HP的16%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 30,
+        "TraitIdStr": "heal-amount-enter-t3",
+        "Name": {
+            "English": "Onset Recovery III",
+            "Japanese": "突入回復 III",
+            "Korean": "",
+            "TraditionalChinese": "突入回復 III",
+            "SimplifiedChinese": "突入回复 III"
+        },
+        "Description": {
+            "English": "Upon entering this Card's range: Heal for 20% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ開始時：\n最大HPの20%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "進入卡牌範圍時：\n回復最大 HP 的20%（HP 破損時無效）",
+            "SimplifiedChinese": "进入卡牌范围时：\n回复最大HP的20%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 31,
+        "TraitIdStr": "heal-amount-every-activate-t3",
+        "Name": {
+            "English": "Recurring Recovery III",
+            "Japanese": "周期回復 III",
+            "Korean": "",
+            "TraditionalChinese": "週期回復 III",
+            "SimplifiedChinese": "周期回复 III"
+        },
+        "Description": {
+            "English": "When any Phase in this Card's range starts: Heal for 10.60% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲内のフェーズ開始毎：\n最大HPの10.6%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內的階段開始時：\n回復最大 HP 的10.6%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌范围内的阶段开始时：\n回复最大HP的10.6%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 32,
+        "TraitIdStr": "heal-amount-every-deactivate-t3",
+        "Name": {
+            "English": "Echoing Recovery III",
+            "Japanese": "反響回復 III",
+            "Korean": "",
+            "TraditionalChinese": "迴響回復 III",
+            "SimplifiedChinese": "回响回复 III"
+        },
+        "Description": {
+            "English": "When any Phase in this Card's range ends: Heal for 10.60% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲内のフェーズ終了毎：\n最大HPの10.6%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內的階段結束時：\n回復最大 HP 的10.6%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌范围内的阶段结束时：\n回复最大HP的10.6%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 33,
+        "TraitIdStr": "heal-amount-exit-t1",
+        "Name": {
+            "English": "Lingering Recovery",
+            "Japanese": "余波回復",
+            "Korean": "",
+            "TraditionalChinese": "餘波回復",
+            "SimplifiedChinese": "余波回复"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Heal for 13% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ終了時：\n最大HPの13%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n回復最大 HP 的13%（HP 破損時無效）",
+            "SimplifiedChinese": "离开卡牌范围时：\n回复最大HP的13%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 34,
+        "TraitIdStr": "heal-amount-exit-t2",
+        "Name": {
+            "English": "Lingering Recovery II",
+            "Japanese": "余波回復 II",
+            "Korean": "",
+            "TraditionalChinese": "餘波回復 II",
+            "SimplifiedChinese": "余波回复 II"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Heal for 16% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ終了時：\n最大HPの16%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n回復最大 HP 的16%（HP 破損時無效）",
+            "SimplifiedChinese": "离开卡牌范围时：\n回复最大HP的16%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 35,
+        "TraitIdStr": "heal-amount-exit-t3",
+        "Name": {
+            "English": "Lingering Recovery III",
+            "Japanese": "余波回復 III",
+            "Korean": "",
+            "TraditionalChinese": "餘波回復 III",
+            "SimplifiedChinese": "余波回复 III"
+        },
+        "Description": {
+            "English": "Upon exiting this Card's range: Heal for 20% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ終了時：\n最大HPの20%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "離開卡牌範圍時：\n回復最大 HP 的20%（HP 破損時無效）",
+            "SimplifiedChinese": "离开卡牌范围时：\n回复最大HP的20%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 36,
+        "TraitIdStr": "percent-all-active-t3",
+        "Name": {
+            "English": "Inner Amplification III",
+            "Japanese": "内面増幅 III",
+            "Korean": "",
+            "TraditionalChinese": "內在增強 III",
+            "SimplifiedChinese": "内在增强 III"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW/DEF +50%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力・防御力 +50%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力與防禦力+50%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力与防御力+50%"
+        }
+    },
+    {
+        "TraitId": 37,
+        "TraitIdStr": "percent-all-inactive-t3",
+        "Name": {
+            "English": "Outer Amplification III",
+            "Japanese": "外界増幅 III",
+            "Korean": "",
+            "TraditionalChinese": "外部增強 III",
+            "SimplifiedChinese": "外部增强 III"
+        },
+        "Description": {
+            "English": "Except during this Card's Phase: Total POW and DEF +13%",
+            "Japanese": "カードをセットしたフェーズ以外で：\n合計攻撃力・防御力 +13%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段外：\n總攻擊力與防禦力+13%",
+            "SimplifiedChinese": "卡牌所在阶段外：\n总攻击力与防御力+13%"
+        }
+    },
+    {
+        "TraitId": 38,
+        "TraitIdStr": "percent-all-outrange-t3",
+        "Name": {
+            "English": "Ranged Outer Amplification III",
+            "Japanese": "域外増幅 III",
+            "Korean": "",
+            "TraditionalChinese": "外圍增強 III",
+            "SimplifiedChinese": "外围增强 III"
+        },
+        "Description": {
+            "English": "While outside this Card's range: Total POW and DEF +14%",
+            "Japanese": "カード範囲外のフェーズ中：\n合計攻撃力・防御力 +14%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍外：\n總攻擊力與防禦力+14%",
+            "SimplifiedChinese": "卡牌范围外：\n总攻击力与防御力+14%"
+        }
+    },
+    {
+        "TraitId": 39,
+        "TraitIdStr": "percent-all-range-t3",
+        "Name": {
+            "English": "Ranged Inner Amplification III",
+            "Japanese": "広範的内面増幅 III",
+            "Korean": "",
+            "TraditionalChinese": "範圍內在增強 III",
+            "SimplifiedChinese": "范围内在增强 III"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total POW/DEF +27%",
+            "Japanese": "カード範囲のフェーズ中：\n合計攻撃力・防御力 +27%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總攻擊力與防禦力+27%",
+            "SimplifiedChinese": "卡牌范围中：\n总攻击力与防御力+27%"
+        }
+    },
+    {
+        "TraitId": 40,
+        "TraitIdStr": "percent-fortitude-active-t1",
+        "Name": {
+            "English": "Inner Rigor",
+            "Japanese": "精神強化",
+            "Korean": "",
+            "TraditionalChinese": "精神強化",
+            "SimplifiedChinese": "精神强化"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total DEF +66%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計防御力+66%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總防禦力+66%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总防御力+66%"
+        }
+    },
+    {
+        "TraitId": 41,
+        "TraitIdStr": "percent-fortitude-active-t2",
+        "Name": {
+            "English": "Inner Rigor II",
+            "Japanese": "精神強化 II",
+            "Korean": "",
+            "TraditionalChinese": "精神強化 II",
+            "SimplifiedChinese": "精神强化 II"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total DEF +80%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計防御力+80%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總防禦力+80%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总防御力+80%"
+        }
+    },
+    {
+        "TraitId": 42,
+        "TraitIdStr": "percent-fortitude-active-t3",
+        "Name": {
+            "English": "Inner Rigor III",
+            "Japanese": "精神強化 III",
+            "Korean": "",
+            "TraditionalChinese": "精神強化 III",
+            "SimplifiedChinese": "精神强化 III"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total DEF +100%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計防御力+100%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總防禦力+100%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总防御力+100%"
+        }
+    },
+    {
+        "TraitId": 43,
+        "TraitIdStr": "percent-fortitude-range-t1",
+        "Name": {
+            "English": "Ranged Inner Rigor",
+            "Japanese": "広範的精神強化",
+            "Korean": "",
+            "TraditionalChinese": "範圍精神強化",
+            "SimplifiedChinese": "范围精神强化"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total DEF +35%",
+            "Japanese": "カード範囲のフェーズ中：合計防御力+35%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總防禦力+35%",
+            "SimplifiedChinese": "卡牌范围中：\n总防御力+35%"
+        }
+    },
+    {
+        "TraitId": 44,
+        "TraitIdStr": "percent-fortitude-range-t2",
+        "Name": {
+            "English": "Ranged Inner Rigor II",
+            "Japanese": "広範的精神強化 II",
+            "Korean": "",
+            "TraditionalChinese": "範圍精神強化 II",
+            "SimplifiedChinese": "范围精神强化 II"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total DEF +43%",
+            "Japanese": "カード範囲のフェーズ中：合計防御力+43%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總防禦力+43%",
+            "SimplifiedChinese": "卡牌范围中：\n总防御力+43%"
+        }
+    },
+    {
+        "TraitId": 45,
+        "TraitIdStr": "percent-fortitude-range-t3",
+        "Name": {
+            "English": "Ranged Inner Rigor III",
+            "Japanese": "広範的精神強化 III",
+            "Korean": "",
+            "TraditionalChinese": "範圍精神強化 III",
+            "SimplifiedChinese": "范围精神强化 III"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total DEF +53%",
+            "Japanese": "カード範囲のフェーズ中：合計防御力+53%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總防禦力+53%",
+            "SimplifiedChinese": "卡牌范围中：\n总防御力+53%"
+        }
+    },
+    {
+        "TraitId": 46,
+        "TraitIdStr": "percent-power-active-t1",
+        "Name": {
+            "English": "Inner Concentration",
+            "Japanese": "集中強化",
+            "Korean": "",
+            "TraditionalChinese": "集中強化",
+            "SimplifiedChinese": "集中强化"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW +66%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力+66%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+66%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+66%"
+        }
+    },
+    {
+        "TraitId": 47,
+        "TraitIdStr": "percent-power-active-t2",
+        "Name": {
+            "English": "Inner Concentration II",
+            "Japanese": "集中強化 II",
+            "Korean": "",
+            "TraditionalChinese": "集中強化 II",
+            "SimplifiedChinese": "集中强化 II"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW +80%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力+80%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+80%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+80%"
+        }
+    },
+    {
+        "TraitId": 48,
+        "TraitIdStr": "percent-power-active-t3",
+        "Name": {
+            "English": "Inner Concentration III",
+            "Japanese": "集中強化 III",
+            "Korean": "",
+            "TraditionalChinese": "集中強化 III",
+            "SimplifiedChinese": "集中强化 III"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW +100%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力+100%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+100%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+100%"
+        }
+    },
+    {
+        "TraitId": 49,
+        "TraitIdStr": "percent-power-range-t1",
+        "Name": {
+            "English": "Ranged Inner Concentration",
+            "Japanese": "広範的集中強化",
+            "Korean": "",
+            "TraditionalChinese": "範圍集中強化",
+            "SimplifiedChinese": "范围集中强化"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total POW +35%",
+            "Japanese": "カード範囲のフェーズ中：合計攻撃力+35%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總攻擊力+35%",
+            "SimplifiedChinese": "卡牌范围中：\n总攻击力+35%"
+        }
+    },
+    {
+        "TraitId": 50,
+        "TraitIdStr": "percent-power-range-t2",
+        "Name": {
+            "English": "Ranged Inner Concentration II",
+            "Japanese": "広範的集中強化 II",
+            "Korean": "",
+            "TraditionalChinese": "範圍集中強化 II",
+            "SimplifiedChinese": "范围集中强化 II"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total POW +43%",
+            "Japanese": "カード範囲のフェーズ中：合計攻撃力+43%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總攻擊力+43%",
+            "SimplifiedChinese": "卡牌范围中：\n总攻击力+43%"
+        }
+    },
+    {
+        "TraitId": 51,
+        "TraitIdStr": "percent-power-range-t3",
+        "Name": {
+            "English": "Ranged Inner Concentration III",
+            "Japanese": "広範的集中強化 III",
+            "Korean": "",
+            "TraditionalChinese": "範圍集中強化 III",
+            "SimplifiedChinese": "范围集中强化 III"
+        },
+        "Description": {
+            "English": "While in this Card's range: Total POW +53%",
+            "Japanese": "カード範囲のフェーズ中：合計攻撃力+53%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總攻擊力+53%",
+            "SimplifiedChinese": "卡牌范围中：\n总攻击力+53%"
+        }
+    },
+    {
+        "TraitId": 52,
+        "TraitIdStr": "unique-3-s-10-1",
+        "Name": {
+            "English": "Opening Full Recovery",
+            "Japanese": "開幕全回復",
+            "Korean": "",
+            "TraditionalChinese": "開幕完全回復",
+            "SimplifiedChinese": "开幕完全回复"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Heal for 100.00% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの100%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n回復最大 HP 的100%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的100%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 53,
+        "TraitIdStr": "unique-3-s-10-2",
+        "Name": {
+            "English": "Inner Aegis",
+            "Japanese": "精神庇護",
+            "Korean": "",
+            "TraditionalChinese": "精神庇護",
+            "SimplifiedChinese": "精神庇护"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total DEF +999%",
+            "Japanese": "カード範囲のフェーズ中：合計防御力+999%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總防禦力+999%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总防御力+999%"
+        }
+    },
+    {
+        "TraitId": 54,
+        "TraitIdStr": "unique-3-s-11-1",
+        "Name": {
+            "English": "Ranged Inner Turmoil",
+            "Japanese": "広範的精神禍乱",
+            "Korean": "",
+            "TraditionalChinese": "範圍精神禍亂",
+            "SimplifiedChinese": "范围精神祸乱"
+        },
+        "Description": {
+            "English": "While in this Card's range: Opponent POW/DEF Reduction +53%",
+            "Japanese": "カード範囲内のフェーズ中：\n相手の攻撃力と防御力を53%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n對手的攻擊力與防禦力下降53%",
+            "SimplifiedChinese": "卡牌范围中：\n对手的攻击力与防御力下降53%"
+        }
+    },
+    {
+        "TraitId": 55,
+        "TraitIdStr": "unique-3-s-12-1",
+        "Name": {
+            "English": "Border Burst",
+            "Japanese": "境界炸裂",
+            "Korean": "",
+            "TraditionalChinese": "極限爆發",
+            "SimplifiedChinese": "极限爆发"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts or ends: Deal damage equal to 33% of your POW",
+            "Japanese": "カードをセットしたフェーズの開始時と終了時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始或結束時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始或结束时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 56,
+        "TraitIdStr": "unique-3-s-12-2",
+        "Name": {
+            "English": "Ranged Border Burst",
+            "Japanese": "広範的境界炸裂",
+            "Korean": "",
+            "TraditionalChinese": "範圍極限爆發",
+            "SimplifiedChinese": "范围极限爆发"
+        },
+        "Description": {
+            "English": "Upon entering or exiting this Card's range: Deal damage equal to 33% of your POW",
+            "Japanese": "カード範囲のフェーズ開始時と終了時：\n攻撃力の33%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "進入或離開卡片範圍時：\n造成等同於目前攻擊力33%的傷害",
+            "SimplifiedChinese": "进入或离开卡牌范围时：\n造成等同于当前攻击力33%的伤害"
+        }
+    },
+    {
+        "TraitId": 59,
+        "TraitIdStr": "denominator-power-other-active-t1",
+        "Name": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        },
+        "Description": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "TraitId": 60,
+        "TraitIdStr": "denominator-power-other-range-t1",
+        "Name": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        },
+        "Description": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "TraitId": 61,
+        "TraitIdStr": "denominator-power-other-active-t2",
+        "Name": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        },
+        "Description": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "TraitId": 62,
+        "TraitIdStr": "denominator-power-other-range-t2",
+        "Name": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        },
+        "Description": {
+            "English": "UNUSED",
+            "Japanese": "",
+            "Korean": "",
+            "TraditionalChinese": "",
+            "SimplifiedChinese": ""
+        }
+    },
+    {
+        "TraitId": 63,
+        "TraitIdStr": "damage-efficacy-border-t3",
+        "Name": {
+            "English": "Border Surge III",
+            "Japanese": "境界攻撃 III",
+            "Korean": "",
+            "TraditionalChinese": "極限攻擊 III",
+            "SimplifiedChinese": "极限攻击 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts or ends: Deal damage equal to 16.5% of your POW",
+            "Japanese": "カード範囲のフェーズ開始時と終了時：\n攻撃力の16.5%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始或結束時：\n造成等同於目前攻擊力16.5%的傷害",
+            "SimplifiedChinese": "此卡牌回合开始或结束时：\n造成等同于当前攻击力16.5%的伤害"
+        }
+    },
+    {
+        "TraitId": 64,
+        "TraitIdStr": "heal-amount-border-t3",
+        "Name": {
+            "English": "Border Recovery III",
+            "Japanese": "境界回復 III",
+            "Korean": "",
+            "TraditionalChinese": "極限回復 III",
+            "SimplifiedChinese": "极限回复 III"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts or ends: Heal for 10% of your max HP (no effect if HP is broken)",
+            "Japanese": "カード範囲のフェーズ開始時と終了時：\n最大HPの10%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始或結束時：\n回復最大 HP 的10%（HP 破損時無效）",
+            "SimplifiedChinese": "此卡牌回合开始或结束时：\n回复最大HP的10%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 69,
+        "TraitIdStr": "demo-damage-efficacy-activate-t3",
+        "Name": {
+            "English": "Opening Surge++",
+            "Japanese": "開幕攻撃++",
+            "Korean": "",
+            "TraditionalChinese": "開幕攻擊++",
+            "SimplifiedChinese": "开幕攻击++"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Deal damage equal to 11% of your current POW",
+            "Japanese": "カードをセットしたフェーズの開始時：\n現在の攻撃力の11%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n造成等同於目前攻擊力11%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n造成等同于当前攻击力11%的伤害"
+        }
+    },
+    {
+        "TraitId": 70,
+        "TraitIdStr": "demo-heal-amount-activate-t3",
+        "Name": {
+            "English": "Opening Recovery++",
+            "Japanese": "開幕回復++",
+            "Korean": "",
+            "TraditionalChinese": "開幕回復++",
+            "SimplifiedChinese": "开幕回复++"
+        },
+        "Description": {
+            "English": "When this Card's Phase starts: Heal for 11% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの11%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n回復最大 HP 的11%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的11%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 71,
+        "TraitIdStr": "demo-percent-power-active-t3",
+        "Name": {
+            "English": "Inner Concentration++",
+            "Japanese": "集中強化++",
+            "Korean": "",
+            "TraditionalChinese": "集中強化++",
+            "SimplifiedChinese": "集中强化++"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW +66%",
+            "Japanese": "カードをセットしたフェーズ中：合計攻撃力+66%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+66%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+66%"
+        }
+    },
+    {
+        "TraitId": 72,
+        "TraitIdStr": "demo-percent-fortitude-active-t3",
+        "Name": {
+            "English": "Inner Rigor++",
+            "Japanese": "精神強化++",
+            "Korean": "",
+            "TraditionalChinese": "精神強化++",
+            "SimplifiedChinese": "精神强化++"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total DEF +66%",
+            "Japanese": "カードをセットしたフェーズ中：合計防御力+66%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總防禦力+66%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总防御力+66%"
+        }
+    },
+    {
+        "TraitId": 65,
+        "TraitIdStr": "unique-4-s-13-2",
+        "Name": {
+            "English": "Triple Closing Burst",
+            "Japanese": "三連終幕炸裂",
+            "Korean": "",
+            "TraditionalChinese": "三重終幕爆發",
+            "SimplifiedChinese": "三重终幕爆发"
+        },
+        "Description": {
+            "English": "When this Card's Phase ends: perform this action thrice: Deal damage equal to 66% of your current POW.",
+            "Japanese": "カードをセットしたフェーズの終了時：\n攻撃力の66%分のダメージを3回与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段結束時：\n造成等同於目前攻擊力66%的傷害三次",
+            "SimplifiedChinese": "卡牌所在阶段结束时：\n造成三次等同于当前攻击力66%的伤害"
+        }
+    },
+    {
+        "TraitId": 66,
+        "TraitIdStr": "unique-4-s-13-1",
+        "Name": {
+            "English": "Ranged Chromatic Isolation: Red",
+            "Japanese": "広範的色相分離：赤",
+            "Korean": "",
+            "TraditionalChinese": "範圍色彩隔離：紅色",
+            "SimplifiedChinese": "范围色彩隔离：红色"
+        },
+        "Description": {
+            "English": "While in this Card's range: Opponent Total POW set to 0 unless opponent Card in current Phase is Red",
+            "Japanese": "カード範囲のフェーズ中：\n相手の赤属性以外のカードの攻撃力を0にする",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n對手此階段的卡牌若非紅色，則其總攻擊力歸零",
+            "SimplifiedChinese": "卡牌范围中：\n对手此阶段的卡牌若非红色，则其总攻击力归零"
+        }
+    },
+    {
+        "TraitId": 67,
+        "TraitIdStr": "unique-4-s-13-4",
+        "Name": {
+            "English": "Inner Critical Focus",
+            "Japanese": "炯眼金睛",
+            "Korean": "",
+            "TraditionalChinese": "明銳對焦",
+            "SimplifiedChinese": "明锐聚焦"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Critical Hit damage +300%",
+            "Japanese": "カードをセットしたフェーズ中：\nクリティカル発生時のダメージ+300%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n暴擊傷害+300%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n暴击伤害 +300%"
+        }
+    },
+    {
+        "TraitId": 68,
+        "TraitIdStr": "unique-4-s-13-3",
+        "Name": {
+            "English": "Inner Impudence",
+            "Japanese": "不敬",
+            "Korean": "",
+            "TraditionalChinese": "飛揚跋扈",
+            "SimplifiedChinese": "飞扬跋扈"
+        },
+        "Description": {
+            "English": "During this Card's Phase: Total POW +300% and own DEF Reduction +100%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力+300%、自身の防御力が100%減衰",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+100%、自身的防禦力下降100%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+300%，自身防御力下降100%"
+        }
+    },
+    {
+        "TraitId": 73,
+        "TraitIdStr": "damage-efficacy-activate-t0",
+        "Name": {
+            "English": "Opening Surge 0",
+            "Japanese": "開幕攻撃 0",
+            "Korean": "",
+            "TraditionalChinese": "開幕攻擊 0",
+            "SimplifiedChinese": "开幕攻击 0"
+        },
+        "Description": {
+            "English": "When this card's Phase starts: Deal damage equal to 20% of your current POW",
+            "Japanese": "カードをセットしたフェーズの開始時：\n攻撃力の20%分のダメージを与える",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始時：\n造成等同於目前攻擊力20%的傷害",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n造成等同于当前攻击力20%的伤害"
+        }
+    },
+    {
+        "TraitId": 74,
+        "TraitIdStr": "heal-amount-activate-t0",
+        "Name": {
+            "English": "Opening Recovery 0",
+            "Japanese": "開幕回復 0",
+            "Korean": "",
+            "TraditionalChinese": "開幕回復 0",
+            "SimplifiedChinese": "开幕回复 0"
+        },
+        "Description": {
+            "English": "When this card's Phase starts: Heal for 10% of your max HP (no effect if HP is broken)",
+            "Japanese": "カードをセットしたフェーズの開始時：\n最大HPの10%分を回復（HPが0の時は効果なし）",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段開始或結束時：\n回復最大 HP 的10%（HP 破損時無效）",
+            "SimplifiedChinese": "卡牌所在阶段开始时：\n回复最大HP的10%（HP破损则不回复）"
+        }
+    },
+    {
+        "TraitId": 75,
+        "TraitIdStr": "percent-power-active-t0",
+        "Name": {
+            "English": "Inner Concentration 0",
+            "Japanese": "集中強化 0",
+            "Korean": "",
+            "TraditionalChinese": "集中強化 0",
+            "SimplifiedChinese": "集中强化 0"
+        },
+        "Description": {
+            "English": "During this card's Phase: Total POW +50%",
+            "Japanese": "カードをセットしたフェーズ中：\n合計攻撃力+50%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌所在階段中：\n總攻擊力+50%",
+            "SimplifiedChinese": "卡牌所在阶段中：\n总攻击力+50%"
+        }
+    },
+    {
+        "TraitId": 76,
+        "TraitIdStr": "percent-fortitude-range-t0",
+        "Name": {
+            "English": "Ranged Inner Rigor 0",
+            "Japanese": "広範的精神強化 0",
+            "Korean": "",
+            "TraditionalChinese": "範圍精神強化 0",
+            "SimplifiedChinese": "范围精神强化 0"
+        },
+        "Description": {
+            "English": "While in this card's range: Total DEF +20%",
+            "Japanese": "カード範囲のフェーズ中：\n合計防御力+35%",
+            "Korean": "",
+            "TraditionalChinese": "卡牌範圍內：\n總防禦力+20%",
+            "SimplifiedChinese": "卡牌范围中：\n总防御力+20%"
+        }
+    }
+]
