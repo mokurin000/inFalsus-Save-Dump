@@ -12,7 +12,7 @@ license = { text = "MIT" }
 dependencies = []
 
 [project.scripts]
-savecodec = "savecodec.cli:main"
+infalsus-savecodec = "savecodec.cli:main"
 
 [tool.setuptools]
 packages = ["savecodec"]
