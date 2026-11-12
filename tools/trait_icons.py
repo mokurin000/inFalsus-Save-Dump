@@ -196,7 +196,6 @@ def derive(trait: dict) -> dict:
 
     row = {
         "TraitId": tid,
-        "TraitIdStr": id_str,
         "Name": name_en,
         "ActivationCondition": None,
         "Frame": None,

@@ -1,7 +1,6 @@
 [
     {
         "TraitId": 1,
-        "TraitIdStr": "unique-trait",
         "Name": "DO NOT USE",
         "ActivationCondition": 0,
         "Frame": "Frame-large-Empty.webp",
@@ -13,7 +12,6 @@
     },
     {
         "TraitId": 2,
-        "TraitIdStr": "damage-efficacy-activate-t1",
         "Name": "Opening Surge",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -25,7 +23,6 @@
     },
     {
         "TraitId": 3,
-        "TraitIdStr": "damage-efficacy-activate-t2",
         "Name": "Opening Surge II",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -37,7 +34,6 @@
     },
     {
         "TraitId": 4,
-        "TraitIdStr": "damage-efficacy-activate-t3",
         "Name": "Opening Surge III",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -49,7 +45,6 @@
     },
     {
         "TraitId": 5,
-        "TraitIdStr": "damage-efficacy-deactivate-t1",
         "Name": "Closing Surge",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -61,7 +56,6 @@
     },
     {
         "TraitId": 6,
-        "TraitIdStr": "damage-efficacy-deactivate-t2",
         "Name": "Closing Surge II",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -73,7 +67,6 @@
     },
     {
         "TraitId": 7,
-        "TraitIdStr": "damage-efficacy-deactivate-t3",
         "Name": "Closing Surge III",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -85,7 +78,6 @@
     },
     {
         "TraitId": 8,
-        "TraitIdStr": "damage-efficacy-enter-t1",
         "Name": "Onset Surge",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -97,7 +89,6 @@
     },
     {
         "TraitId": 9,
-        "TraitIdStr": "damage-efficacy-enter-t2",
         "Name": "Onset Surge II",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -109,7 +100,6 @@
     },
     {
         "TraitId": 10,
-        "TraitIdStr": "damage-efficacy-enter-t3",
         "Name": "Onset Surge III",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -121,7 +111,6 @@
     },
     {
         "TraitId": 11,
-        "TraitIdStr": "damage-efficacy-every-activate-t3",
         "Name": "Recurring Surge III",
         "ActivationCondition": 9,
         "Frame": "Frame-large-RecurringOpening.webp",
@@ -133,7 +122,6 @@
     },
     {
         "TraitId": 12,
-        "TraitIdStr": "damage-efficacy-every-deactivate-t3",
         "Name": "Echoing Surge III",
         "ActivationCondition": 2,
         "Frame": "Frame-large-EchoingClosing.webp",
@@ -145,7 +133,6 @@
     },
     {
         "TraitId": 13,
-        "TraitIdStr": "damage-efficacy-exit-t1",
         "Name": "Lingering Surge",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -157,7 +144,6 @@
     },
     {
         "TraitId": 14,
-        "TraitIdStr": "damage-efficacy-exit-t2",
         "Name": "Lingering Surge II",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -169,7 +155,6 @@
     },
     {
         "TraitId": 15,
-        "TraitIdStr": "damage-efficacy-exit-t3",
         "Name": "Lingering Surge III",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -181,7 +166,6 @@
     },
     {
         "TraitId": 16,
-        "TraitIdStr": "denominator-all-other-active-t3",
         "Name": "Inner Distress",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -193,7 +177,6 @@
     },
     {
         "TraitId": 17,
-        "TraitIdStr": "denominator-all-other-range-t3",
         "Name": "Ranged Inner Distress",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -205,7 +188,6 @@
     },
     {
         "TraitId": 18,
-        "TraitIdStr": "denominator-fortitude-other-active-t3",
         "Name": "Inner Vulnerability III",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -217,7 +199,6 @@
     },
     {
         "TraitId": 19,
-        "TraitIdStr": "denominator-fortitude-other-range-t3",
         "Name": "Ranged Inner Vulnerability III",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -229,7 +210,6 @@
     },
     {
         "TraitId": 20,
-        "TraitIdStr": "denominator-power-other-active-t3",
         "Name": "Inner Digression III",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -241,7 +221,6 @@
     },
     {
         "TraitId": 21,
-        "TraitIdStr": "denominator-power-other-range-t3",
         "Name": "Ranged Inner Digression III",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -253,7 +232,6 @@
     },
     {
         "TraitId": 22,
-        "TraitIdStr": "heal-amount-activate-t1",
         "Name": "Opening Recovery",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -265,7 +243,6 @@
     },
     {
         "TraitId": 23,
-        "TraitIdStr": "heal-amount-activate-t2",
         "Name": "Opening Recovery II",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -277,7 +254,6 @@
     },
     {
         "TraitId": 24,
-        "TraitIdStr": "heal-amount-activate-t3",
         "Name": "Opening Recovery III",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -289,7 +265,6 @@
     },
     {
         "TraitId": 25,
-        "TraitIdStr": "heal-amount-deactivate-t1",
         "Name": "Closing Recovery",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -301,7 +276,6 @@
     },
     {
         "TraitId": 26,
-        "TraitIdStr": "heal-amount-deactivate-t2",
         "Name": "Closing Recovery II",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -313,7 +287,6 @@
     },
     {
         "TraitId": 27,
-        "TraitIdStr": "heal-amount-deactivate-t3",
         "Name": "Closing Recovery III",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -325,7 +298,6 @@
     },
     {
         "TraitId": 28,
-        "TraitIdStr": "heal-amount-enter-t1",
         "Name": "Onset Recovery",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -337,7 +309,6 @@
     },
     {
         "TraitId": 29,
-        "TraitIdStr": "heal-amount-enter-t2",
         "Name": "Onset Recovery II",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -349,7 +320,6 @@
     },
     {
         "TraitId": 30,
-        "TraitIdStr": "heal-amount-enter-t3",
         "Name": "Onset Recovery III",
         "ActivationCondition": 8,
         "Frame": "Frame-large-OnsetOpening.webp",
@@ -361,7 +331,6 @@
     },
     {
         "TraitId": 31,
-        "TraitIdStr": "heal-amount-every-activate-t3",
         "Name": "Recurring Recovery III",
         "ActivationCondition": 9,
         "Frame": "Frame-large-RecurringOpening.webp",
@@ -373,7 +342,6 @@
     },
     {
         "TraitId": 32,
-        "TraitIdStr": "heal-amount-every-deactivate-t3",
         "Name": "Echoing Recovery III",
         "ActivationCondition": 2,
         "Frame": "Frame-large-EchoingClosing.webp",
@@ -385,7 +353,6 @@
     },
     {
         "TraitId": 33,
-        "TraitIdStr": "heal-amount-exit-t1",
         "Name": "Lingering Recovery",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -397,7 +364,6 @@
     },
     {
         "TraitId": 34,
-        "TraitIdStr": "heal-amount-exit-t2",
         "Name": "Lingering Recovery II",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -409,7 +375,6 @@
     },
     {
         "TraitId": 35,
-        "TraitIdStr": "heal-amount-exit-t3",
         "Name": "Lingering Recovery III",
         "ActivationCondition": 3,
         "Frame": "Frame-large-LingeringClosing.webp",
@@ -421,7 +386,6 @@
     },
     {
         "TraitId": 36,
-        "TraitIdStr": "percent-all-active-t3",
         "Name": "Inner Amplification III",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -433,7 +397,6 @@
     },
     {
         "TraitId": 37,
-        "TraitIdStr": "percent-all-inactive-t3",
         "Name": "Outer Amplification III",
         "ActivationCondition": 4,
         "Frame": "Frame-large-Outer.webp",
@@ -445,7 +408,6 @@
     },
     {
         "TraitId": 38,
-        "TraitIdStr": "percent-all-outrange-t3",
         "Name": "Ranged Outer Amplification III",
         "ActivationCondition": 5,
         "Frame": "Frame-large-RangedOuter.webp",
@@ -457,7 +419,6 @@
     },
     {
         "TraitId": 39,
-        "TraitIdStr": "percent-all-range-t3",
         "Name": "Ranged Inner Amplification III",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -469,7 +430,6 @@
     },
     {
         "TraitId": 40,
-        "TraitIdStr": "percent-fortitude-active-t1",
         "Name": "Inner Rigor",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -481,7 +441,6 @@
     },
     {
         "TraitId": 41,
-        "TraitIdStr": "percent-fortitude-active-t2",
         "Name": "Inner Rigor II",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -493,7 +452,6 @@
     },
     {
         "TraitId": 42,
-        "TraitIdStr": "percent-fortitude-active-t3",
         "Name": "Inner Rigor III",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -505,7 +463,6 @@
     },
     {
         "TraitId": 43,
-        "TraitIdStr": "percent-fortitude-range-t1",
         "Name": "Ranged Inner Rigor",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -517,7 +474,6 @@
     },
     {
         "TraitId": 44,
-        "TraitIdStr": "percent-fortitude-range-t2",
         "Name": "Ranged Inner Rigor II",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -529,7 +485,6 @@
     },
     {
         "TraitId": 45,
-        "TraitIdStr": "percent-fortitude-range-t3",
         "Name": "Ranged Inner Rigor III",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -541,7 +496,6 @@
     },
     {
         "TraitId": 46,
-        "TraitIdStr": "percent-power-active-t1",
         "Name": "Inner Concentration",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -553,7 +507,6 @@
     },
     {
         "TraitId": 47,
-        "TraitIdStr": "percent-power-active-t2",
         "Name": "Inner Concentration II",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -565,7 +518,6 @@
     },
     {
         "TraitId": 48,
-        "TraitIdStr": "percent-power-active-t3",
         "Name": "Inner Concentration III",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -577,7 +529,6 @@
     },
     {
         "TraitId": 49,
-        "TraitIdStr": "percent-power-range-t1",
         "Name": "Ranged Inner Concentration",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -589,7 +540,6 @@
     },
     {
         "TraitId": 50,
-        "TraitIdStr": "percent-power-range-t2",
         "Name": "Ranged Inner Concentration II",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -601,7 +551,6 @@
     },
     {
         "TraitId": 51,
-        "TraitIdStr": "percent-power-range-t3",
         "Name": "Ranged Inner Concentration III",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -613,7 +562,6 @@
     },
     {
         "TraitId": 52,
-        "TraitIdStr": "unique-3-s-10-1",
         "Name": "Opening Full Recovery",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -625,7 +573,6 @@
     },
     {
         "TraitId": 53,
-        "TraitIdStr": "unique-3-s-10-2",
         "Name": "Inner Aegis",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -637,7 +584,6 @@
     },
     {
         "TraitId": 54,
-        "TraitIdStr": "unique-3-s-11-1",
         "Name": "Ranged Inner Turmoil",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -649,7 +595,6 @@
     },
     {
         "TraitId": 55,
-        "TraitIdStr": "unique-3-s-12-1",
         "Name": "Border Burst",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Winged.webp",
@@ -661,7 +606,6 @@
     },
     {
         "TraitId": 56,
-        "TraitIdStr": "unique-3-s-12-2",
         "Name": "Ranged Border Burst",
         "ActivationCondition": 8,
         "Frame": "Frame-large-Graceless.webp",
@@ -673,7 +617,6 @@
     },
     {
         "TraitId": 59,
-        "TraitIdStr": "denominator-power-other-active-t1",
         "Name": "UNUSED",
         "ActivationCondition": 0,
         "Frame": "Frame-large-Empty.webp",
@@ -685,7 +628,6 @@
     },
     {
         "TraitId": 60,
-        "TraitIdStr": "denominator-power-other-range-t1",
         "Name": "UNUSED",
         "ActivationCondition": 0,
         "Frame": "Frame-large-Empty.webp",
@@ -697,7 +639,6 @@
     },
     {
         "TraitId": 61,
-        "TraitIdStr": "denominator-power-other-active-t2",
         "Name": "UNUSED",
         "ActivationCondition": 0,
         "Frame": "Frame-large-Empty.webp",
@@ -709,7 +650,6 @@
     },
     {
         "TraitId": 62,
-        "TraitIdStr": "denominator-power-other-range-t2",
         "Name": "UNUSED",
         "ActivationCondition": 0,
         "Frame": "Frame-large-Empty.webp",
@@ -721,7 +661,6 @@
     },
     {
         "TraitId": 63,
-        "TraitIdStr": "damage-efficacy-border-t3",
         "Name": "Border Surge III",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Winged.webp",
@@ -733,7 +672,6 @@
     },
     {
         "TraitId": 64,
-        "TraitIdStr": "heal-amount-border-t3",
         "Name": "Border Recovery III",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Winged.webp",
@@ -745,7 +683,6 @@
     },
     {
         "TraitId": 65,
-        "TraitIdStr": "unique-4-s-13-2",
         "Name": "Triple Closing Burst",
         "ActivationCondition": 1,
         "Frame": "Frame-large-Closing.webp",
@@ -757,7 +694,6 @@
     },
     {
         "TraitId": 66,
-        "TraitIdStr": "unique-4-s-13-1",
         "Name": "Ranged Chromatic Isolation: Red",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
@@ -769,7 +705,6 @@
     },
     {
         "TraitId": 67,
-        "TraitIdStr": "unique-4-s-13-4",
         "Name": "Inner Critical Focus",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -781,7 +716,6 @@
     },
     {
         "TraitId": 68,
-        "TraitIdStr": "unique-4-s-13-3",
         "Name": "Inner Impudence",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -793,7 +727,6 @@
     },
     {
         "TraitId": 69,
-        "TraitIdStr": "demo-damage-efficacy-activate-t3",
         "Name": "Opening Surge++",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -805,7 +738,6 @@
     },
     {
         "TraitId": 70,
-        "TraitIdStr": "demo-heal-amount-activate-t3",
         "Name": "Opening Recovery++",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -817,7 +749,6 @@
     },
     {
         "TraitId": 71,
-        "TraitIdStr": "demo-percent-power-active-t3",
         "Name": "Inner Concentration++",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -829,7 +760,6 @@
     },
     {
         "TraitId": 72,
-        "TraitIdStr": "demo-percent-fortitude-active-t3",
         "Name": "Inner Rigor++",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -841,7 +771,6 @@
     },
     {
         "TraitId": 73,
-        "TraitIdStr": "damage-efficacy-activate-t0",
         "Name": "Opening Surge 0",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -853,7 +782,6 @@
     },
     {
         "TraitId": 74,
-        "TraitIdStr": "heal-amount-activate-t0",
         "Name": "Opening Recovery 0",
         "ActivationCondition": 10,
         "Frame": "Frame-large-Opening.webp",
@@ -865,7 +793,6 @@
     },
     {
         "TraitId": 75,
-        "TraitIdStr": "percent-power-active-t0",
         "Name": "Inner Concentration 0",
         "ActivationCondition": 6,
         "Frame": "Frame-large-Inner.webp",
@@ -877,7 +804,6 @@
     },
     {
         "TraitId": 76,
-        "TraitIdStr": "percent-fortitude-range-t0",
         "Name": "Ranged Inner Rigor 0",
         "ActivationCondition": 7,
         "Frame": "Frame-large-RangedInner.webp",
